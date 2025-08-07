@@ -69,4 +69,4 @@ MIT
 
 ## Autor
 
-Gerardo Pereira - [LinkedIn](https://www.linkedin.com/in/gerardopereira)
+Gerardo Pereira - [LinkedIn](https://www.linkedin.com/in/gerardo-pereira-villar-a223b231a?originalSubdomain=uy)
