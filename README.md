@@ -13,7 +13,7 @@ Una aplicación Flask que permite migrar configuraciones de Edge entre dos insta
 
 1. Clona el repositorio:
 ```bash
-git clone https://github.com/tuusuario/edge-migrator.git
+git clone https://github.com/gerapereiravillar/nsxtEdgeMigration
 cd edge-migrator
 ```
 
